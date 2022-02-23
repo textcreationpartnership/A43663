@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The moral schechinah, or, A discourse of Gods glory in a sermon preached at the last Yorkshire-feast in Bow-church, London, June 11, 1682 / by George Hickes.</title>
+            <author>Hickes, George, 1642-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43663</idno>
+            <idno type="STC">Wing H1857</idno>
+            <idno type="STC">ESTC R10895</idno>
+            <idno type="EEBO-CITATION">11821367</idno>
+            <idno type="OCLC">ocm 11821367</idno>
+            <idno type="VID">49581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49581)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 496:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The moral schechinah, or, A discourse of Gods glory in a sermon preached at the last Yorkshire-feast in Bow-church, London, June 11, 1682 / by George Hickes.</title>
+                  <author>Hickes, George, 1642-1715.</author>
+               </titleStmt>
+               <extent>[6], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Wallis, for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 1st, X, 32 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49581:1"/>
+            <pb facs="tcp:49581:1"/>
+            <p>
+               <hi>The Moral Shechinah: Or a Diſcourſe of</hi> Gods Glory.</p>
+            <p>IN A SERMON Preached at the laſt <hi>YORKSHIRE</hi>-FEAST IN <hi>Bow</hi>-Church, <hi>London. June</hi> 11. 1682.</p>
+            <p>BY <hi>GEORGE HICKES,</hi> D.D. Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Wallis,</hi> for <hi>Walter Kettilby,</hi> at the Biſhops Head in <hi>St. Pauls</hi> Church-Yard. 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49581:2" rendition="simple:additions"/>
+            <pb facs="tcp:49581:2"/>
+            <head>To my Honoured FRIENDS &amp; COUNTRYMEN THE STEWARDS Of the laſt <hi>YORKSHIRE</hi>-FEAST.</head>
+            <head type="sub">
+               <list>
+                  <item>Mr. <hi>William Thomſon,</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Hutton,</hi>
+                  </item>
+                  <item>Mr. <hi>Richard Fountaine,</hi>
+                  </item>
+                  <item>Mr. <hi>John Hargrave,</hi>
+                  </item>
+                  <item>Mr. <hi>William Wenſlay,</hi>
+                  </item>
+                  <item>Mr. <hi>William Wilkinſon,</hi>
+                  </item>
+                  <item>Mr. <hi>Anthony Warde,</hi>
+                  </item>
+                  <item>Mr. <hi>Michael Thompſon,</hi>
+                  </item>
+                  <item>Mr. <hi>Chriſtopher Conyers,</hi>
+                  </item>
+                  <item>Mr. <hi>James Holdſworth,</hi>
+                  </item>
+                  <item>Mr. <hi>James Gibſon,</hi>
+                  </item>
+                  <item>Mr. <hi>Nicholas Craige.</hi>
+                  </item>
+               </list>
+            </head>
+            <opener>
+               <salute>Gentlemen.</salute>
+            </opener>
+            <p>ALtho' <hi>the Glory of God,</hi> which is the Subject of this Diſcourſe, be the ſupream end of all Human Actions, yet it is very certain from many of the greateſt
+<pb facs="tcp:49581:3"/>Pretenders to Religion, that they have obſcure, perverſe,, and incongrous No<g ref="char:EOLhyphen"/>tions of it. And if what I have ſaid upon it in this ſhort compaſs may any way contribute to rectifie ſuch mens apprehenſions, I ſhall be thankful to God for it, and think my pains very well ſpent. I had preſented you ſooner with it, but that I was hindered by ſundry Avocations; and perhaps had I publiſhed it, when you firſt de<g ref="char:EOLhyphen"/>ſired me, it might not have done ſo much Good amongſt us, as now it may do in cooler times, when men are in a better temper, and more fit to mind both the concerns of this World, and
+<pb facs="tcp:49581:3"/>that which is to come. I wiſh you all happineſs, and ſhall be ready to ſerve every one of you in particu<g ref="char:EOLhyphen"/>lar, as I have all of you in general in firſt, Preaching, and now, Publiſhing this Diſcourſe, which comes with all due reſpects from</p>
+            <closer>
+               <salute>Gentlemen,</salute> 
+               <signed>Your moſt obedient Servant <hi>George Hickes.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:49581:4"/>
+            <pb n="1" facs="tcp:49581:4"/>
+            <head>A SERMON PREACHED At the <hi>Yorkſhire-</hi> Feaſt, <hi>July</hi> 11. 1682. ON 1 COR. x. 32. <hi>Whether therefore ye eat, or drink, or whatſoever ye do, do all to the glory of God.</hi>
+            </head>
+            <p>THE good or bad ſucceſs of mens undertakings depending very much upon the knowledge of the end for which they are to act, it muſt needs concern all Chriſtians to get right, and clear Notions of the <hi>Glory of God,</hi> which Chriſtianity aſſerts to be the ſupream end of all Human Actions, and which, tho' men ge<g ref="char:EOLhyphen"/>nerally
+<pb n="2" facs="tcp:49581:5"/>pretend to underſtand, yet it is very certain from many mens inconſiſtent practices, that they are grievouſly miſtaken in the Noti<g ref="char:EOLhyphen"/>on of it; or if they be not, that they act a<g ref="char:EOLhyphen"/>gainſt their Underſtandings and Conſciences, in acting ſo contrary to, while they pretend to act for the Glory of God.</p>
+            <p>Wherefore, in diſcourſing upon theſe words, which propoſe the Glory of God unto us, as the Supream end of all Human Actions; I ſhall firſt endeavour to explain the true Notion of it.</p>
+            <p n="2">2. I ſhall make a general diviſion of Hu<g ref="char:EOLhyphen"/>man Actions into their ſeveral ſorts, and ſhew under each ſort how they are to be directed unto it, as unto their chief end. and</p>
+            <p>Laſtly, I ſhall ſhew what we muſt do, and how we muſt behave our ſelves in our preſent Solemnity, that we fall not ſhort of the Apo<g ref="char:EOLhyphen"/>ſtles Rule, who tells us, that <hi>whether we eat, or drink, or whatſoever we do, we muſt do it to the Glory of God.</hi>
+            </p>
+            <p>Firſt, I ſhall endeavour to explain the true Notion of <hi>Gods glory,</hi> In order whereunto I muſt deſire you to take notice, that the firſt Notion of Gods Glory in the Scripture is a
+<pb n="3" facs="tcp:49581:5"/>Phyſical Notion for the viſible appearance of God, or the viſible manifeſtation of himſelf by Fire, Light, Clouds, Brightneſs, and other Me<g ref="char:EOLhyphen"/>teorous Symbols of his preſence; and that the other notions of <hi>Gods Glory,</hi> or <hi>Glorifying God,</hi> which occur in the Scriptures, do, as I ſhall hereafter ſhew, generally allude, and refer unto this, which, I ſay, conſiſted inthe viſible appearance or manifeſtation of God by Fire, Light, Clouds, and ſuch like glorious ſigns of his Preſence, of which there are ſeveral ex<g ref="char:EOLhyphen"/>amples in the Old Teſtament: as of his appear<g ref="char:EOLhyphen"/>ing to <hi>Moſes</hi> in a flame of Fire in the Buſh, and to all the people upon Mount <hi>Sinai,</hi> which (ſaith the Text) <hi>was altogether on a ſmoke, be<g ref="char:EOLhyphen"/>cauſe the Lord deſcended upon it in Fire, and the Sight of the Glory of the Lord was like de<g ref="char:EOLhyphen"/>vouring Fire on the top of the Mount.</hi>
+            </p>
+            <p>
+               <hi>So</hi> Exod. xl. 38. <hi>The Cloud of the Lord was upon the Tabernacle by day, and the Fire was on it by night, in the ſight of all the Houſe of</hi> Iſrael. <hi>So</hi> Numb. ix. 15. <hi>On the day that the Tabernacle was reared up, the Cloud covered it, namely the Tent of the Teſtimony, and at Even there was upon the Tabernacle the appear<g ref="char:EOLhyphen"/>ance of Fire until the Morning. So</hi> Exod.
+<pb n="4" facs="tcp:49581:6"/>xxvi. 16. <hi>The Cloud covered Mount</hi> Sinai <hi>ſix days, and the ſeventh day God called unto</hi> Mo<g ref="char:EOLhyphen"/>ſes <hi>out of the Cloud.</hi>
+            </p>
+            <p>Thus alſo the Cloud was wont to appear at the door of the Tabernacle, as <hi>Deut.</hi> xxxi. 15. <hi>The Lord</hi> (ſaith the Text) <hi>appeared in the Ta<g ref="char:EOLhyphen"/>bernacle, in the pillar of a cloud, and the cloud ſtood over the door of the Tabernacle.</hi>
+            </p>
+            <p>And in the Holy of Holys, as in <hi>Lev.</hi> xvi. 2. <hi>The Lord ſaid unto</hi> Moſes, <hi>speak unto</hi> Aaron <hi>thy brother, that he come not at all times into the holy place, within the vail before the Mercy-Seat, which is upon the Ark, that he dye not, for I will appear in the cloud upon the Mercy-Seat.</hi>
+            </p>
+            <p>So I King, viii.<hi>When the Prieſt had brought the Ark of the Covenant into the Oracle of the new built Temple, under the Wings of the Cherubims, the Cloud ſo filled the Houſe of the Lord, that the Prieſts could not ſtand to miniſter becauſe of the Cloud.</hi> And in <hi>Ezek.</hi> i. you may read of other ſplendid appearances, whereby God manifeſted his Preſence; as by appearances like the colour of Amber, Chry<g ref="char:EOLhyphen"/>ſtal, Saphire, and the colours of the Rain<g ref="char:EOLhyphen"/>bow, together with appearance of Fire with
+<pb n="5" facs="tcp:49581:6"/>brightneſs round it. In theſe ſplendid, and glorious appearances God was wont to mani<g ref="char:EOLhyphen"/>feſt his ſpecial Preſence among the <hi>Jews,</hi> and the manifeſtation thereof was emphatically called <hi>The Glory of the Lord,</hi> as in <hi>Exod.</hi> xxix. 43. Saith God to <hi>Moſes, At the door of the Taber<g ref="char:EOLhyphen"/>nacle will I meet you to ſpeak there unto thee, and there will I meet the Children of</hi> Iſrael, <hi>and the Tabernacle ſhall be Sanctified by my Glory.</hi>
+            </p>
+            <p>So in <hi>Exod.</hi> xxxiii. after God had told <hi>Moſes</hi> again, and again, That his Preſence ſhould go with him, <hi>Then,</hi> ſaith he, <hi>I beſeech thee ſhew me thy Glory. i. e.</hi> I beſeech the ſhew me ſome Glorious Token of the Preſence, <hi>and the Lord ſaid, Behold there is a place by me, and thou ſhalt ſtand upon the Rock, and while my Glory paſſeth by, I will put thee in the cliff of the Rock, and I will cover thee with my hand while I paſs by.</hi>
+            </p>
+            <p>So <hi>Exod.</hi> xvii. 10. <hi>While</hi> Aaron <hi>ſpoke unto the whole Congregation, they looked towards the Wil<g ref="char:EOLhyphen"/>derneſs, and behold, the Glory of the Lord appeared in the Cloud.</hi> And <hi>Ch.</hi> xxiv. 16. <hi>The Glory of the Lord abode upon the Mount, and the Cloud covered it ſix days.</hi> So <hi>Ch.</hi> xl. 34. <hi>A Cloud covered the Tent of the Congregation, and</hi>
+               <pb n="6" facs="tcp:49581:7"/>
+               <hi>the Glory of the Lord filled the Tabernacle.</hi> So <hi>Levit.</hi> ix. 23. Moſes <hi>and</hi> Aaron <hi>went into the Tabernacle, and came out and bleſſed the People, and the Glory of the Lord appeared unto all the People.</hi> So 1 <hi>Kings</hi> viii. 12. <hi>The Prieſts</hi> (faith the Text) <hi>could not ſtand to miniſter in the Temple, becauſe of the Cloud, for the Glory of the Lord had filled the Houſe.</hi> So the Prophet <hi>Ezekiel</hi> ſpeaking of the viſionary ſight which he had of Gods Glory, ſaith <hi>As the Appearance of the Bow, that is in the Cloud in the day of Rain; ſo was the appearance of the brightneſs round about the firo: This was the appearance of the likeneſs of the Glory of the Lord.</hi> I could produce many more Texts out of the Old Teſtament to ſhew how the manifeſtation of Gods Preſence by ſuch ſplendid and glo<g ref="char:EOLhyphen"/>rious Signs was called his <hi>Glory,</hi> but rather proceed to ſhew how it is alluded, and re<g ref="char:EOLhyphen"/>ferred unto in the New, as in <hi>Rom.</hi> ix. 4. where the Apoſtle ſpeaking of the <hi>Iſraelites,</hi> ſaith, <hi>To whom pertaineth the Adoption, and the Glory,</hi> or the viſible manifeſtations of the Preſence of God. So <hi>Heb.</hi> ix. 5. The Cherubims under which God appeared are called <hi>the Cherubims of Glory,</hi> and <hi>Rom.</hi> i. 23. Speaking of that
+<pb n="7" facs="tcp:49581:7"/>unworthy manner in which the Gentiles, and the followers of <hi>Simon,</hi> and <hi>Menander</hi> who complyed with them, repreſented the Majeſty of God, <hi>They changed</hi> (ſaith he) <hi>the Glory, i. e.</hi> the preſence, or appearance of God which never was exhibited but by fire, light, and ſuch like things, without any manner of ſimi<g ref="char:EOLhyphen"/>litude, <hi>into an Image made like unto corruptible Man, and to birds and beaſts, and creeping things.</hi>
+            </p>
+            <p>So <hi>John</hi> i. 14. <hi>The Word was made fleſh, and dwelt among us, and we beheld his glory, the glory as of the onely begotten of the Father. i. e.</hi> the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Eternal Word, as St. <hi>Ignatius</hi> calls him, came in our fleſh and dwelt in it, as God did in the <hi>Jewiſh</hi> Taber<g ref="char:EOLhyphen"/>nacle, and we by his Wonders, and wonder<g ref="char:EOLhyphen"/>ful Holineſs and other Signs, perceived his Preſence in it, the Preſence as of the only begotten of the Father, full of Grace and Truth.</p>
+            <p>Here you ſee the Preſence and Manifeſta<g ref="char:EOLhyphen"/>tion of the Godhead in the Body of Chriſt, is alluſively called his Glory, and in like man<g ref="char:EOLhyphen"/>ner the appearance of God in the Primitive Chriſtian Church by the gift of the Spirit,
+<pb n="8" facs="tcp:49581:8"/>and the extraordinary ſanctity and patience of the Chriſtians is called the <hi>Glory of God</hi> in <hi>Rev.</hi> xxi. where the Chriſtian Church is myſ<g ref="char:EOLhyphen"/>tically called the new <hi>Jeruſalem,</hi> and the Ta<g ref="char:EOLhyphen"/>bernacle of God, in which he dwelt among Men; and this holy City, wherein God was ſo conſpicuous in the wonderful Graces, which he ſhed upon the Chriſtians, <hi>had no need of the Sun, nor Moon to ſhine in it, for the Glory,</hi> i.e. <hi>the preſence of God did lighten it, and the Lamb was the light thereof.</hi>
+            </p>
+            <p>In like manner the preſence of Chriſt in his Miniſters is called his Glory. 2 <hi>Cor.</hi> viii. 23. <hi>If any do enquire of</hi> Titus <hi>he is my Partner, or if our Brethren be enquired after, they are the Meſſengers of the Churches, and the Glory of Chriſt.</hi> And accordingly the manifeſtation of him in their Works, Doctrine, and eminent Sanctity is alſo called Glory. 2 <hi>Pet.</hi> i 2. <hi>Hath given us all things pertaining unto Life and Godlineſs through the knowledge of him, that hath called us to Glory and Virtue.</hi>
+            </p>
+            <p>So 2 <hi>Cor.</hi> iv. 5. The Revelation of God un<g ref="char:EOLhyphen"/>to the World by the Goſpel, is called <hi>the light of the knowledge of the Glory, i. e.</hi> of the manifeſtation of God in the face of Jeſus
+<pb n="9" facs="tcp:49581:8"/>Chriſt, and in 1 <hi>Pet.</hi> iv. 4. Thoſe that ſuffer'd for Chriſt, are ſaid in alluſion to the <hi>Shechi<g ref="char:EOLhyphen"/>nah,</hi> to have the Glory and Spirit of God to reſt upon them, becauſe, as I conceive, God appeared as eminently in them in their Con<g ref="char:EOLhyphen"/>feſſions and Sufferings, as if his Glory had deſcended upon them in lambent fires, and reſted upon their heads. According to this Explication of the Text, when our Saviour foretold the Crucifixion of <hi>Peter</hi> in theſe words: <hi>When thou waſt young thou girdeſt thy ſelf, and walkedſt whither thou wouldeſt, but when thou ſhalt be old thou ſhalt ſtretch forth thy hands, and another ſhall gird thee, and carry thee whi<g ref="char:EOLhyphen"/>ther thou wouldeſt not, this he ſpake</hi> (ſaith the Evangeliſt) <hi>ſignifying by what death he ſhould</hi> Glorifie <hi>God.</hi>
+            </p>
+            <p>By this time you may perceive, that the Glory of God from ſignifying the <hi>Shechinah,</hi> as the <hi>Jews</hi> called his <hi>viſible Preſence,</hi> comes to ſignifie his Preſence, or manifeſtation any other way, more eſpecially in the words and actions of men, according to which meta<g ref="char:EOLhyphen"/>phorical ſenſe, to Glorifie, ſignifies in the ge<g ref="char:EOLhyphen"/>neral to manifeſt, or evidence God. In this ſenſe the Father is ſaid to glorifie the Son, and
+<pb n="10" facs="tcp:49581:9"/>the Son to glorifie the Father; and in this ſenſe our Saviour ſaid of the Sickneſs of <hi>Lazarus: This Sickneſs is not unto death, but for the glory of God, that the Son of God might be glorified thereby.</hi> And according to this ſenſe alſo the <hi>Gentiles</hi> and <hi>Gnoſticks</hi> are charged by the Apoſtle, <hi>That altho' they knew God, yet they glorified him not as God:</hi> and becauſe he that praiſeth God doth in an eminent manner ma<g ref="char:EOLhyphen"/>nifeſt, evidence, and ſet him forth; there<g ref="char:EOLhyphen"/>fore ſaith he in the Pſalmiſt, <hi>Whoſo offereth me praiſe glorifieth me:</hi> and from hence I con<g ref="char:EOLhyphen"/>ceive it came to paſs that the Tongue, by which we publickly confeſs, and acknowledge God, and declare the infinite worth and excellencies of his bleſſed nature, came to be called by the name of <hi>Glory,</hi> as in <hi>Pſal.</hi> lvii. <hi>Awake my Glory,</hi> and in <hi>Pſal.</hi> cviii. <hi>I WILL ſing and give praiſe with my Glory,</hi> which in the other Tranſlation is exegetically rendered <hi>with the beſt member that I have.</hi>
+            </p>
+            <p>But more eſpecially, and to come nearer to my purpoſe, in this very ſenſe we are ſaid to glorifie, <hi>i. e.</hi> to confeſs and acknowledge God, or make him appear in our works; as in that emphatical place of St. <hi>John,</hi> where
+<pb n="11" facs="tcp:49581:9"/>our Saviour told his Diſciples, <hi>herein is my Father glorified, that you bear much fruit,</hi> and that of the Apoſtle to the <hi>Corinthians, Ye are bought with a price, there glorifie God in your body, and in your ſpirit, which are God's.</hi>
+            </p>
+            <p>From hence you may perceive that the Glory of God in the moral ſignification, in which it is propoſed for the ſupream End of all human Actions, hath a near alliance, and reference unto the phraſe in the Phyſical ſenſe thereof; for as in this, it ſignifies the viſible manifeſtation or appearance of God in Fire, Light, Clouds, and other refracted colours: ſo in that, it ſignifies the viſible manifeſtation of him in the courſe of mens Lives. So in that the ſenſe of my Text is plainly this: <hi>Whether you Eat or Drink, or whatſoever you do, do all to the manifeſtation of God:</hi> let him appear in your Converſation; make publick recognition of him in your Lives; and ſo order all your Affairs, and behave your ſelves in all your Actions, that the World may ſee that your Souls are poſſeſt with a due ſenſe of him, and that he is in you of a truth.</p>
+            <p>To this purpoſe ſaith the Apoſtle <hi>Phil.</hi> i. 10. <hi>Approve the things that are Excellent, that you
+<pb n="12" facs="tcp:49581:10" rendition="simple:additions"/>may be ſincere and without offence till the day of Chriſt, being filled with the Fruits of Righteouſ<g ref="char:EOLhyphen"/>neſs, which are by Chriſt Jeſus unto the glory and praiſe of God.</hi> And ſo true and exact is this Analogy between the Phyſical and Moral Glory of God, that every righteous perſon who lives in obedience and ſubjection to his Laws, and walks as a Child of Light, doth as effectually declare and ſet forth God, and his Special Preſence in himſelf unto the World, as if the Cloud of Glory, which filled the Houſe of the Lord, conſtantly ſurrounded his Temples, unto him Face to Face, as he did unto <hi>Moſes,</hi> as a man ſpeaketh unto his Friend.</p>
+            <p>What the <hi>Pſalmiſt</hi> ſaid of the Heavens, may be truly ſaid of Divine and Heavenly men, they declare the Glory of God, they ſet forth his Power and Wiſdom, and Goodneſs, and all his other Adorable Perfections, they viſibly bear his Image in being conformed unto the likeneſs of his Son, their Holy lives are a Comment upon his bleſſed Nature, they Preach him con<g ref="char:EOLhyphen"/>tinually by their Example. In a word, as the Apoſtle ſaid of the Stars, they are the viſible Epiſtle of Chriſt to the World, written not
+<pb n="13" facs="tcp:49581:10"/>with Ink, but with the Spirit of the Living God, they are the Light of the World, burning and ſhining Lights, and ſo ſhine before men that they may ſee their good Works, and be brought in like manner by the benefit of their example to glorifie their Father, which is in Heaven.</p>
+            <p>Having now explained the true and genuine Notion of <hi>Gods Glory,</hi> which the Chriſtian Phi<g ref="char:EOLhyphen"/>loſophy propoſes for the Supream end of Hu<g ref="char:EOLhyphen"/>man Actions, I proceed in the ſecond place to make a general diviſion of Human Actions into their ſeveral kinds, that I may the better ſhew under each kind how we may make God and the ſenſe we have of his infinite Majeſty, and of our duty to him, appear in all our Actions, or how we may direct all our Actions to his Glory, as unto their ſupream end.</p>
+            <p>For <hi>as Cicero</hi> ſaith, <hi>Nulla vitae pars neque publicis, neque privatis, neque forenſibus, neque domeſtieis in rebus, neque ſi tecum agas quid, neque ſi cum altero contrabans, vacare officio poteſt</hi>— There is no part of our lives, whe<g ref="char:EOLhyphen"/>ther we be imployed in Publick or Private Matters, in buſineſs belonging to the Law, or in our Domeſtical Affairs, whether we have to
+<pb n="14" facs="tcp:49581:11"/>deal with ourſelves alone, or whether we have to deal with others, but it is attended with certain duties; in the conſtance performance of which, we make it appear to all the World, that there is an Eternal and Immutable di<g ref="char:EOLhyphen"/>ſtinction between Good and Evil, and that there is a God infinitely Wiſe, and Juſt, and Powerful, that will judge every man accor<g ref="char:EOLhyphen"/>ding to his Works. Nay in obſerving theſe duties which attend us in all our Actions, we ſhew unto all the World the power of the divine aſſiſtance within us, by which we are enabled ſo to act, and that principle of ho<g ref="char:EOLhyphen"/>ly love and fear in our hearts, which makes us ſo conſtant and regular in conforming our Actions unto the Laws of God.</p>
+            <p>But this diviſion of humane actions by <hi>Cicero</hi> is defective in this, that it only concerns our ſecular actions, omitting one conſiderable part of our lives, which ought to be ſpent in the Temple, and in divine worſhip: and therefore laying it aſide, I ſhall prefer the Scriptural diviſion of human actions as the moſt perfect, and comprehenſive with reſpect to their ob<g ref="char:EOLhyphen"/>jects, <hi>God, our Neighbour,</hi> and <hi>our ſelves.</hi> This diſtinction is founded on <hi>Tit.</hi> ii. 12. where the
+<pb n="15" facs="tcp:49581:11"/>Apoſtle tells <hi>That the Goſpel teaches all men that we ſhould live righteouſly, ſoberly, and godly in this preſent world; looking for the bleſſed hope, and the glorious appearance of the great God, and our Saviour Jeſus Chriſt.</hi>
+            </p>
+            <p>I ſhall begin with the firſt branch of this di<g ref="char:EOLhyphen"/>ſtinction which concerns thoſe actions of ours, which have God for their object, and are im<g ref="char:EOLhyphen"/>mediately converſant about him, as when we ſpeak of him, from him, or to him; be it in Prayers, Praiſes or Vows, or in Swearing by his Holy Name. In all theſe caſes we immediately direct our ſelves unto God, and when we ſo behave our ſelves in them, as to let others ſee the mighty ſenſe we have of his Infinite Majeſty, and how much we love, fear, admire and adore him; then and only then he appears in thoſe actions; which indeed tend no otherwiſe to his <hi>Glory,</hi> then as they are declarative of his exiſtence, and abſolute perfections; as of his Sovereignty, Providence, Power, Truth, Wiſdom, and Goodneſs: and he that treats him in this Religious manner, when he hath occaſion to be any of thoſe ways converſant about him, doth manifeſt his Eternal Power, and Godhead, as effectually,
+<pb n="16" facs="tcp:49581:12"/>as if God ſtood by him, as he did by <hi>Moſes</hi> in a flame of fire in the Buſh.</p>
+            <p>Wherefore whenſoever we have occaſion to mention God, or ſpeak to others in his Name, or whenſoever we offer up Prayer or Praiſes, or make Vows unto him, or call upon him in Solemn Oaths, to atteſt the Truth of what we Swear, let us do it in a manner ſuit<g ref="char:EOLhyphen"/>able to his infinite Majeſty, in ſuch a manner, as will ſerve to expreſs, and declare to others what awful and ſerious apprehenſions we have of his moſt Excellent Nature, and if we do ſo, we need not doubt, but our Religious Behaviour will make very ſenſible impreſſions upon them, and contribute more or leſs, like the Sight of his Glory, to ſtrike into them the Fear, and Reverence of his Holy Name.</p>
+            <p>When St. <hi>Paul</hi> diſcourſed with <hi>Felix</hi> con<g ref="char:EOLhyphen"/>cerning the Faith in Chriſt, he did it in ſuch a manner, that, <hi>as he reaſoned of Righteouſ<g ref="char:EOLhyphen"/>neſs, Temperance, and Judgement to come</hi> Felix <hi>Trembled,</hi> and had the Glory of God reſted all the while upon the Apoſtle, What could the Governour have done more? Thus the Preſence of God appeared ſo eminently in the Words and Actions of St. <hi>Ambroſe</hi> when
+<pb n="17" facs="tcp:49581:12"/>he forbid the Emperor <hi>Theodoſius</hi> in God's name to enter into the Church; that his Ma<g ref="char:EOLhyphen"/>jeſty could not have been more humbled, and penitent for the innocent blood ſhed at <hi>Theſſa<g ref="char:EOLhyphen"/>lonica,</hi> altho' he had ſeen the Cloud of Glory hang over the Temple, or encircle the Head of the Divine Prelate, while he ſpoke unto him. The Hiſtorian tell us, that he returned unto his Place <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſighing,<note place="margin">
+                  <hi>Theodor.</hi> l. 5. c. 18.</note> and weep<g ref="char:EOLhyphen"/>ing, and from theſe without multiplying other examples, we may learn how much God may be glorified and made appear in thoſe actions of men, which are immediately converſant a<g ref="char:EOLhyphen"/>bout him.</p>
+            <p>Hither we muſt alſo reduce the Glory that ac<g ref="char:EOLhyphen"/>crues unto God, by the Reſpect and Obſervance which we ought to ſhew towards all <hi>Things, Times, Perſons,</hi> and <hi>Places,</hi> which belong unto him; as to the Scriptures becauſe they are his Word, to the Clergy becauſe they are his Mini<g ref="char:EOLhyphen"/>ſters, to the Church becauſe it is his Houſe, to the Chriſtian Religion, becauſe it is his Religion, and to the Firſt Day of the Week becauſe it is the Lords Day. All theſe things challenge a particular reſpect from us, different from all other things of the ſame name and kind upon
+<pb n="18" facs="tcp:49581:13"/>the account of their relation unto God, and when we treat them with reverence for his ſake, the honour of it redounds to him, be<g ref="char:EOLhyphen"/>cauſe every action of that Nature is a ſolemn Ackowledgement, and Declaration, that he is the Great, and Holy God.</p>
+            <p>Theſe are all genuine duties, and effects of Godlineſs, or Religiouſneſs, as it is diſtin<g ref="char:EOLhyphen"/>guiſhed from other parts of Chriſtian Piety. But alas how little of it is practiſed in this Prophane Age? How little Religious, and how much Profane, and Atheiſtical diſcourſe is now to be heard in all Companies? Nay how is the Worſhip of God, which above all other things is ordained for his Glory, diſ<g ref="char:EOLhyphen"/>honoured, and profaned, and almoſt perverted to the contrary End, by the irreverent, and un<g ref="char:EOLhyphen"/>worthy carriage of man. To ſee how many men behave themſelves in the Service of God, would tempt an indifferent man to believe that they deſigned not to acknowledge Wiſdom, Power, and Goodneſs, and their truſt in, and dependance upon his infinite Majeſty; but rather to deny him in the Action, and de<g ref="char:EOLhyphen"/>clare to all the World, that Religion is no<g ref="char:EOLhyphen"/>thing but Superſtition, and that it is very un<g ref="char:EOLhyphen"/>certain
+<pb n="19" facs="tcp:49581:13"/>whether there is a God or no; or if there be, whether or no he concerns himſelf in the Government of the World. To this if we add the general practice of Raſh. and Vain Swearing on one hand, and Solemn Perjuries on the other, together with that utter diſre<g ref="char:EOLhyphen"/>ſpect, which is now accounted brave, and ge<g ref="char:EOLhyphen"/>nerous, to caſt upon all Things, and Perſons, which belong unto God, we muſt needs ac<g ref="char:EOLhyphen"/>knowledge that there are great numbers of men among us, who tho' they may profeſs God, yet in their Works deny him, being ſo far from doing whatſoever they do to his Glory, that there Actions tend, and it is to be feared many of them are deſigned, to extirpate the Notions of him out of mens Minds, his Fear out of their Conſciences, and his Name and Re<g ref="char:EOLhyphen"/>ligion out of the World.</p>
+            <p n="2">II. So much for the firſt kind of Human Actions, which immediately regard God: from whence I proceed to the ſecond, which are ſuch as regard our Neighbours, and are pra<g ref="char:EOLhyphen"/>ctiſed in our Dealing, and Converſation with them, and in theſe Actions this is the Rule; That they tend to Gods Glory, when they tend to the Good of Men, and are declarative of
+<pb n="20" facs="tcp:49581:14"/>that excellent, and comprehenſive Virtue in us, which the <hi>Greeks</hi> call <hi>Philanthrophy,</hi> the <hi>Latines, Humanity,</hi> and the Chriſtian Religion <hi>Love.</hi>
+            </p>
+            <p>This is the general Supream Law, which God hath commanded men, that they ſhould love one another, according to that repeated Precept of our Saviour. <hi>This is my Command<g ref="char:EOLhyphen"/>ment, and theſe things I command you, that you love one another, and that you love one ano<g ref="char:EOLhyphen"/>ther, as I have loved you.</hi>
+            </p>
+            <p>This reiterated Precept of our bleſſed Sa<g ref="char:EOLhyphen"/>viour, made the Apoſtle ſay unto the <hi>Theſſalo<g ref="char:EOLhyphen"/>nians: Now as touching brotherly Love, ye need not that I write unto you, for ye your ſelves are taught of God to love one another:</hi> and <hi>this</hi> (ſaith St. <hi>John</hi> in his Epiſt. Gener.) <hi>is the Meſ<g ref="char:EOLhyphen"/>ſage, that ye have heard from the beginning, that ye love one another.</hi> St. <hi>Paul</hi> in ſeveral places gives us the reaſon, why our Lord ſo carefully enjoyn'd this duty upon us, becauſe it is the fulfilling of the Second Table of the Law. <hi>By love</hi> (ſaith he <hi>Gal.</hi> 5.) <hi>ſerve one ano<g ref="char:EOLhyphen"/>ther, for all the Law is fulfilled in one word, thou ſhalt love thy Neighbor as thy ſelf. And love</hi> (faith the <hi>Rom.</hi> 13.) <hi>Worketh no ill to his
+<pb n="21" facs="tcp:49581:14"/>Neighbour, therefore love is the fulfilling of the Law.</hi>
+            </p>
+            <p>This Character of Love which the Apoſtle gives us, is indeed Negative, but as all other Negatives are, it is founded in poſitive ſenſe, ſo that his meaning is at large this: love work<g ref="char:EOLhyphen"/>eth no ill, but worketh all manner of good to his Neighbour, therefore love is the fulfilling of the Law. In theſe two prime effects of love <hi>to do no ill, and to do all manner of good</hi> are founded the Laws of Juſtice and Charity, and in theſe two are comprehended all the duties, which every man owes to other men.</p>
+            <p>For Juſtice powerfully reſtrains us from do<g ref="char:EOLhyphen"/>ing any harm or injury to our Neighbour, and Charity puſhes us on to do him all good Offi<g ref="char:EOLhyphen"/>ces, and Kindneſs; and therefore all juſt, and Charitable Actions, which ſpring from the Divine Root of Humanity, or Love, muſt needs tend to the Glory of God, and the manifeſtati<g ref="char:EOLhyphen"/>on of his Divine Nature, who as St. <hi>John</hi> ſaith is love, and who in the <hi>Saxon</hi> Tongue [from which the Dialect of our Country is but one remove] is called <hi>God,</hi> becauſe he is <hi>good;</hi> as in our Saviours anſwer to the Ruler, who called him good Maſter <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or man
+<pb n="22" facs="tcp:49581:15"/>man <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> there is one good ſave only God. According to this Derivation of his Name the Apoſtle ſaith <hi>That Love is of God, and that every one that loveth is born of God, and he that loveth not,</hi> or hath not the grace of Love in him, <hi>knoweth not God, for God is Love, or made up of Love, and kindneſs to men. No man hath ſeen God at any time, if we Love one another God dwelleth in us, and his Love is perfected in us, and hereby we know, that we dwell in him, and he in us, be<g ref="char:EOLhyphen"/>cauſe he hath given us of his Spirit of Love.</hi>
+            </p>
+            <p>In theſe words <hi>dwelleth</hi> and <hi>dwell</hi> the Apo<g ref="char:EOLhyphen"/>ſtle emphatically alludes to the <hi>Schechinah,</hi> or <hi>Glory,</hi> by which God manifeſted his Preſence in the <hi>Jewiſh</hi> Tabernacle, or Temple, and the meaning of them is, that we cannot give better Evidence of Gods abiding in us, and dwelling in our Souls than by the Spirit, and temper of Love, if we would make it appear to the World, that he is in us, or that we are of him, and conformed unto his Image and Example; nay if we would maike it appear, that we are acquainted with his divine Nature, or declare that we believe he hath Loved us; Nay would we ſhew our Obedience to his ſtrict<g ref="char:EOLhyphen"/>eſt
+<pb n="23" facs="tcp:49581:15"/>and deareſt Command, which he hath exem<g ref="char:EOLhyphen"/>plified in his Son, or give a right proof to o<g ref="char:EOLhyphen"/>thers, that we love him, as he hath loved us, it muſt be by conforming all our dealings with men to the Rules of Juſtice, and Charity, which are the the genuine, and immediate ef<g ref="char:EOLhyphen"/>fects of Love. <hi>Beloved let us love one another, for love is of God, and every one that loveth is born of God, and knoweth God; God is Love, and he that dwelleth in Love dwelleth in God, and God in him, and this Commandment we have from him, that be who loveth God, loveth his Brother alſo.</hi>
+            </p>
+            <p>Nay furthermore the beſt proof that we can give to our ſelves and others, that we are Re<g ref="char:EOLhyphen"/>generate perſons, and have paſſed from a ſtate of death unto life, is our love to our Fellow-Chriſtians; for, ſaith the Apoſtle, <hi>We know that we have paſſed from death unto life, be<g ref="char:EOLhyphen"/>canſe we love the Brethren; he that loveth not his Brother, abideth in death.</hi>
+            </p>
+            <p>From all this, I hope it is plain, that the beſt way for men to ſet forth the bleſſed Nature of God, and the Conformity of their Spirits unto his, is to be juſt, and charitable in all their Dealings with all ſorts of men. When their
+<pb n="24" facs="tcp:49581:16"/>Actions are conformed to this Rule, they ſhew what God is, and how like they are unto him; and when they are not, all their Religion is but Shew, Pretence and Hypocriſie, and as loathſome to Almighty God, as Atheiſm, or Prophaneneſs it ſelf. Thus in the firſt of <hi>Iſaiah,</hi> to which I refer you; the Prophet lets the people of <hi>Iſrael</hi> know, that <hi>Without Juſtice, and Judgment, and Charity, their Sabbaths, and Aſſemblies, and Sacrifices, and Offerings, and Prayers were vain and loathſome unto him; that be hated them, and was weary of them, and could not delight therein:</hi> Nay, from obſerving theſe two general Laws, of Juſtice, and Cha<g ref="char:EOLhyphen"/>rity, whereof the one keeps us off from doing any injury, or harm, and the other obliges us to do all the good we can to other men, re<g ref="char:EOLhyphen"/>ſults all the happineſs of Humane Societies, and all the good that men mutually receive from one another in every Relation of the World.</p>
+            <p>This makes Princes as God upon Earth, and Subjects as obedient and dutiful unto them, as the Angels are unto God, not only for Wrath, but Conſcience-ſake. It makes Husbands love their Wives as Chriſt loved his Church, and Wives ſubmit themſelves unto their own Huſ<g ref="char:EOLhyphen"/>bands
+<pb n="25" facs="tcp:49581:16"/>as it is fit in the Lord. It keeps Parents from provoking their Children; and obliges Children to obey their Parents in all things, becauſe it is well pleaſing unto the Lord. It makes Maſters ſo behave themſelves to their Servants, as to let them know that they have a Maſter in Heaven; and Servants account their Maſters worthy of all Honour, and obey them, not with eye-ſervice, as Men-pleaſers, but in ſingleneſs of heart, fearing God, and doing whatſoever they do heartily, as unto the Lord, It makes Biſhops and Miniſters look to themſelves, and unto the Flocks over which the chief Shepherd hath made them Overſeers; and their Flocks obey them that have the Rule over them in the Lord, becauſe they watch for their Souls. In a word, Juſtice and Charity, which ſpring from one Root, and which the Scriptures call by the name of Righteouſneſs, in all ſpecial relations exert themſelves in ſpe<g ref="char:EOLhyphen"/>cial effects: and, might they govern the World, they would quickly turn it into Paradiſe, and make all Human Societies, Kingdoms; Churches, Cities; Colleges, Companies; Counties and Families, ſo many <hi>Penuels,</hi> where the Lord might be ſeen.</p>
+            <pb n="26" facs="tcp:49581:17"/>
+            <p n="3">III. And ſo I proceed to the third ſort of Human Actions, which concern our duty to<g ref="char:EOLhyphen"/>wards our ſelves; and they, tend to the Glory of God, and making of him ſhine in our Con<g ref="char:EOLhyphen"/>verſations, when they are kept within the Di<g ref="char:EOLhyphen"/>vine bounds of Moderation, or Sobriety; which are to be obſerved in the Government of the Body and Soul. The Government of the Bo<g ref="char:EOLhyphen"/>dy conſiſts on one hand in keeping of it from the exceſſive deſire and uſe of Pleaſure, and on the other from the exceſſive averſation, and ab<g ref="char:EOLhyphen"/>horrence of Pain.</p>
+            <p>Under Pleaſure we may reduce all things that are very pleaſant, or delightful to the bodily Appetite; as Meats, in which our Mo<g ref="char:EOLhyphen"/>deration is called <hi>Temperance;</hi> or in Drinks, where it is more eſpecially called <hi>Sobriety;</hi> or in Carnal pleaſures, where it is called <hi>Chaſtity;</hi> or in Riches and honours, which we may call <hi>contempt of the World.</hi>
+            </p>
+            <p>And under pain we may reduce all things, that are very ungrateful, and grievous unto it; in bearing of which our Moderation is called Fortitude, Patience, and Conſtancy, and it contains the Chriſtian duty of <hi>taking up the Croſs.</hi>
+            </p>
+            <pb n="27" facs="tcp:49581:17"/>
+            <p>An as for the Government of the Soul, there is one Rule which Sobriety preſcribes to her alſo and that is not to think more highly of her ſelf than ſhe ought to think; but to think ſoberly, as the Apoſtle ſpeaks, and this is <hi>humility, or lowlineſs of mind.</hi>
+            </p>
+            <p>Now according to this comprehenſive Scheme, ſet before your Eyes a man who li<g ref="char:EOLhyphen"/>mits all his Actions of this kind within the bounds of Moderation and Sobriety; and then tell me, whether they do not make it appear, that he is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the Holy Martyr <hi>Ignatius</hi> called himſelf, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, one in whom Chriſt is formed, one that bears God about in his Soul, The Temple of his Reſidence, even the living Tabernacle of the Goſpel-<hi>Shechinah,</hi> which is the Holy Ghoſt, <hi>know you not,</hi> ſaith the Apoſtle, <hi>that you are the Temple of God, and that his Spirit dwelleth in you?</hi> Yes the Spirit of God reſides in ſuch men; and every Temperate, Sober, Chaſt, and Humble Perſon hath ſo much of his like<g ref="char:EOLhyphen"/>neſs, and appearance upon him, and ſhews ſo much of his Divine Nature in all his Actions, that uſually his preſence ſtrikes an awe into
+<pb n="28" facs="tcp:49581:18"/>diſſolute ſinners, and makes them uneaſie in the midſt of their Senſual enjoyments, unleſs they chance to be ſuch as the Apoſtle ſaith <hi>de<g ref="char:EOLhyphen"/>ny God in their Works, being abominable, diſ<g ref="char:EOLhyphen"/>obedient, and reprobate unto every good work.</hi>
+            </p>
+            <p>And it is the great diſhonor and misfortune of this Age to abound with men of all ranks, and denominations, who are paſt the com<g ref="char:EOLhyphen"/>mon ſenſe of God, and Religion, who as the Apoſtle ſaith, <hi>Are alienated from the life of God, becauſe of the blindneſs of their heart, and who, being paſt feeling have given themſelves o<g ref="char:EOLhyphen"/>ver unto laſciviouſneſs, to work all uncleaneſs with greedineſs.</hi> Men who have nothing but the Habits, and Figure of their Bodies, to di<g ref="char:EOLhyphen"/>ſtinguiſh them from Beaſts; being utterly de<g ref="char:EOLhyphen"/>void of Reaſon, that Divine Principle, which <hi>Cicero</hi> ſaith, is common to man and God. There is nothing of God which appears in theſe men, and their Actions; but they ſhew themſelves to be of their Father the Devil: they are con<g ref="char:EOLhyphen"/>formed unto his Image, him they will glorifie, and his works they will do.</p>
+            <p>Having now explained the true and genu<g ref="char:EOLhyphen"/>ine ſenſe of Gods Glory, and having in the ſecond place made a diviſion of Human Actions
+<pb n="29" facs="tcp:49581:18"/>into their ſeveral kinds, and ſhewn under each kind how they are to be directed to Gods Glory, I now come to bring the application of all this to our Meeting and Feaſting together, that we may not fall ſhort of the Apoſtles Rule, who tells us, <hi>that whether we eat or drink, or What<g ref="char:EOLhyphen"/>ſoever we do, me muſt do all to the glory of God.</hi>
+            </p>
+            <p>Theſe County-Meetings as they are in the general deſigned, ſo they may in an eſpecial manner be directed unto this great end; as they are excellent means of endearing Country men together, and of begetting Brotherly love and kindneſs among them to one another, but moſt eſpecially as they give the Richer ſort an oppor<g ref="char:EOLhyphen"/>tunity of providing for Poor.</p>
+            <p>The cuſtomary manner in which we meet, doth declare this to be the principal end of this ſort of Meetings; for firſt we come together in the Church, that we may Worſhip the Fountain of Love and Beneficence, and hear ſome profita<g ref="char:EOLhyphen"/>ble exhortation to imitate his Charity, and then we go to eat and drink together in a Joyful, and Feſtival manner of his good Creatures; that having our Bodies refreſhed, and our Spirits ex<g ref="char:EOLhyphen"/>hilirated in the ſober uſe of them, we ſhould be better diſpoſed to this good work. But if after all
+<pb n="30" facs="tcp:49581:19"/>this Shew and Preparation we give nothing, or grudgingly, and not according to our power, we ſhall moralize the Birth of the Mountains, and diſappoint the expectation both of God and men.</p>
+            <p>I believe there are no ſuch Provincial' <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or Feaſts of Charity in the Capital City of any other Nation in the World; it is perhaps the honor of the <hi>Engliſh</hi> to be the <hi>firſt</hi> Authors of ſuch Benificent and Charitable Inſtitutions; but then this muſt needs be ſaid on the other hand, that if they exceed other Countrys in this or any other ſort of Chriſtian Magnificence, and Liberality, it is but their duty to do ſo, becauſe tho' <hi>England</hi> be not the richeſt Country, yet the <hi>Engliſh</hi> are the richeſt people in the World.</p>
+            <p>For as the learned Chancellor <hi>Forteſcue</hi> wrote long ago,<note place="margin">De Laul. Leg. Angl. Cap. 9.</note> it is the happineſs of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> to live in a Realm where the Regal, or De<g ref="char:EOLhyphen"/>fpotie is under the limitation of the Civil Power: and where the King cannot change the Laws without the conſent of his Subjects, nor charge them with Impoſitions againſt their wills, be<g ref="char:EOLhyphen"/>cauſe he governeth his people, not only by Regal, but alſo by Political Power:</p>
+            <p>This gives us a ſecurer Property than any other people, makes us Maſters of our Purſes,
+<pb n="31" facs="tcp:49581:19"/>and Eſtates, and if by the ſingular bleſſing of ſuch a Government we heap up Riches above the Subjects of any other Forein Countrys, it is but reaſonable, that we ſhould find out ſome peculi<g ref="char:EOLhyphen"/>ar ways of expreſſing our gratitude unto God.</p>
+            <p>This obligation in common to us with all our Fellow-Subject, but beſides this we have parti<g ref="char:EOLhyphen"/>cular reaſons why we ſhould be free and plenti<g ref="char:EOLhyphen"/>ful in our Contributions to our poor Country<g ref="char:EOLhyphen"/>men, for our County as the curious obſerve, is the Epitome of <hi>England,</hi> whatſoever is excellent in the whole Land being to be found in proporti<g ref="char:EOLhyphen"/>on there: Beſides this, God hath been pleaſed to make it the Birth-place, and Nurſery of ma<g ref="char:EOLhyphen"/>ny Great men, and ſpecial Inſtruments of his Glory, as of <hi>Conſtantine</hi> the firſt Chriſtian Em<g ref="char:EOLhyphen"/>peror, whom all Writers who aſſert <hi>Britain</hi> to have been the place of his Birth, muſt needs ac<g ref="char:EOLhyphen"/>knowlege to have been born at <hi>York.</hi> I ſhall not name any more, becauſe it is fitter to talk over the long Catalogue of our Worthies at the Ta<g ref="char:EOLhyphen"/>ble than in the Pulpit: and alſo becauſe it can<g ref="char:EOLhyphen"/>not be done without ſeeming to flatter ſome very Eminent and Worthy perſons of all ranks, and profeſſions, whom I ought to ſuppoſe are preſent here.</p>
+            <pb n="32" facs="tcp:49581:20"/>
+            <p>Therefore in acknowledgement of all the bleſſings, and honors, which God hath beſtowed upon our Country, and to oblige him to keep it, as he did the Holy land, which it equals in greatneſs, under the Wings of his ſpecial pro<g ref="char:EOLhyphen"/>tection, let us now be ample Benefactors to the Poor thereof.</p>
+            <p>We cannot do any thing that will redound more to the credit of our Country, and Religion, or more manifeſt the preſence of God among us in this Solemnity than by doing for our indi<g ref="char:EOLhyphen"/>gent Country-men, as we ſhould expect, our coditions being changed, that they ſhould do for us. If we do ſo, we ſhall fully anſwer the end of this Feſtival Meeting, and lay up for our ſelves a good Foundation againſt the time to come, but if we do otherwiſe, not giving at all, or not giving to them according as God hath given unto us, we ſhall, to ſay no worſe fall ſhamefully ſhort of the Apoſtles Rule, who tells us, <hi>That whether we eat, or drink, or whatſoever we do we muſt do all to the glory of God: To whom Father, Son, and Holy Ghoſt be aſcribed, as is moſt due, all Honor, Praiſe and Glory now, and evermore.</hi> Amen.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Pag. 6. lin. 18. for <hi>but rather</hi> r. <hi>but I rather.</hi> pag. 12. lin. penult. for <hi>Starsr. Corinthians.</hi> pag. 13. lin. 22. for <hi>contrahans</hi> r. <hi>contrahas.</hi> pag. 27. lin. 14. for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> r. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> pag. 31. lin. 17. ſor <hi>Writers</hi> r. <hi>thoſe.</hi> lin. penult. for whom r. who.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
